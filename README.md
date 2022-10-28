@@ -5,3 +5,6 @@ So is build this website using python flask framework. All required modules are 
 Requirements :
 VS code
 python3
+
+# Output:
+![alt text]()
